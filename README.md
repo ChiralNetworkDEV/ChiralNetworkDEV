@@ -18,4 +18,14 @@ AI engineering student in my third semester, interested in data, machine learnin
     <li>📙 Focused on learning by doing.
     <li>👨‍💻 Using <a href="https://github.com/mazarafa">Github</a></li> to share my projects and track my progress.
     <li>🎉 Excited to learn new technologies and build cool projects!</li>
-    
+
+
+
+    <!---line break---->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!---line break---->
+<!---------contribute chart animate snake----------------->
+<p align="center" >
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>

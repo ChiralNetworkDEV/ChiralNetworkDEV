@@ -6,3 +6,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 AI engineering student in my third semester, interested in data, machine learning, and practical analytics projects. I enjoy learning new tools, sharing progress, and building things step by step.
+
+</p>
+
+<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
